@@ -14,22 +14,17 @@ Moreover, I consider myself as an analytical person, focused on goals; with crea
 
 # 💻 Tech Stack:
 
-### Version systems: `Git`, `Github`
+### Version systems: 
+* `Git`, `Github`
 ## Programming languages
-
-* `C`
-* C++
-* Python
+* Embedded: `C`, `C++`, `Python`
+* Backend: `Javascript`
 
 ## Microcontrollers
-
-STM32F103CBT6
-STM8S003F3P6
-STM32H743
-TM4C1294NCPDT
-MSP430F5529
-ESP8266
-ESP32
+* STM32 Family: `STM32F103CBT6`, `STM32H743`
+* STM8 Family: `STM8S003F3P6`
+* Texas Instruments: `MSP430`, `TM4C1294NCPDT`, `MSP430F5529`
+* Espressif: `ESP8266`, `ESP32`
 
 ## Embedded Systems
 
