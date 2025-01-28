@@ -12,6 +12,11 @@ Moreover, I consider myself as an analytical person, focused on goals; with crea
 
 # 💻 Tech Stack:
 
+--- start-multi-column: ExampleRegion1
+```column-settings
+number of columns: 2
+largest column: left
+```
 **Version systems**
 * Git 
 * Github
@@ -20,6 +25,7 @@ Moreover, I consider myself as an analytical person, focused on goals; with crea
 * C
 * C++
 * Python
+--- end-column ---
 
 **Microcontrollers**
 * STM32F103CBT6
@@ -36,6 +42,9 @@ Moreover, I consider myself as an analytical person, focused on goals; with crea
 * GCC
 * GDB
 * Crontab
+
+--- end-multi-column
+
 
 **Project management**
 * Notion
