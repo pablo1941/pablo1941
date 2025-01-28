@@ -8,10 +8,9 @@ I am passionate about technology and continuously strive to stay updated with th
 Moreover, I consider myself as an analytical person, focused on goals; with creative, oriented to challenges and problem-solving thinking. On the other hand, I am convinced that innovation is a key factor in transforming and improving our environment, through sustainable technology solutions with a purpose.
 
 # Projects:
-1. Emulator: `https://github.com/pablo1941/emulator`
+1. Electronic Emulator wind turbine: `https://github.com/pablo1941/emulator`
 2. state_machine: `c`
-3. wifi_module: `b`
-4. mppt_adc: `a`
+3. mppt_adc: `https://github.com/pablo1941/mppt_adc`
 
 # 💻 Tech Stack:
 
