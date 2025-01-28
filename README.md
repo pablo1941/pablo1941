@@ -1,7 +1,5 @@
 # Hi Everyone, my name is Pablo Rodríguez 👨🏻‍💻
 
-**Electronic Engineer**
-
 # 🔬Profile:
 
 I am passionate about technology and continuously strive to stay updated with the latest advancements in embedded systems and the Internet of Things world. I enjoy collaborating with cross-functional teams to bring products from concept to market. 
