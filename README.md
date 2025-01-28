@@ -1,4 +1,4 @@
-# Hi Everyone, my name is Pablo Rodríguez 🇨🇴
+# Hi Everyone, my name is Pablo Rodríguez 👨🏻‍💻
 
 **Electronic Engineer**
 
