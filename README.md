@@ -7,32 +7,12 @@
 I am passionate about technology and continuously strive to stay updated with the latest advancements in embedded systems and the Internet of Things world. I enjoy collaborating with cross-functional teams to bring products from concept to market. 
 Moreover, I consider myself as an analytical person, focused on goals; with creative, oriented to challenges and problem-solving thinking. On the other hand, I am convinced that innovation is a key factor in transforming and improving our environment, through sustainable technology solutions with a purpose.
 
---- start-multi-column: ExampleRegion1\
-\```column-settings\
-number of columns: 2\
-largest column: left\
-\```
-
-Text displayed in column 1.
-
-\--- end-column ---
-
-Text displayed in column 2.
-
-\--- end-multi-column
-
-Text displayed below.
 
 
 # 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pablocesarrodriguezgomez1990/) 
 
 # 💻 Tech Stack:
 
---- start-multi-column: ExampleRegion1
-```column-settings
-number of columns: 2
-largest column: left
-```
 **Version systems**
 * Git 
 * Github
@@ -41,7 +21,6 @@ largest column: left
 * C
 * C++
 * Python
---- end-column ---
 
 **Microcontrollers**
 * STM32F103CBT6
@@ -58,9 +37,6 @@ largest column: left
 * GCC
 * GDB
 * Crontab
-
---- end-multi-column
-
 
 **Project management**
 * Notion
