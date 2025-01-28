@@ -7,16 +7,17 @@
 I am passionate about technology and continuously strive to stay updated with the latest advancements in embedded systems and the Internet of Things world. I enjoy collaborating with cross-functional teams to bring products from concept to market. 
 Moreover, I consider myself as an analytical person, focused on goals; with creative, oriented to challenges and problem-solving thinking. On the other hand, I am convinced that innovation is a key factor in transforming and improving our environment, through sustainable technology solutions with a purpose.
 
-
+# Projects:
+1. Emulator: `https://github.com/pablo1941/emulator`
+2. state_machine: `c`
+3. wifi_module: `b`
+4. mppt_adc: `a`
 
 # 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pablocesarrodriguezgomez1990/) 
 
 # 💻 Tech Stack:
 
-## Version systems
-* Git
-* Github
-
+### Version systems: `Git`, `Github`
 ## Programming languages
 
 * `C`
