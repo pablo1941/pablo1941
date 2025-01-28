@@ -16,9 +16,10 @@ Moreover, I consider myself as an analytical person, focused on goals; with crea
 
 ### Version systems: 
 * `Git`, `Github`
+
 ## Programming languages
 * Embedded: `C`, `C++`, `Python`
-* Backend: `Javascript`
+* Backend: `Javascript`, `Go`
 
 ## Microcontrollers
 * STM32 Family: `STM32F103CBT6`, `STM32H743`
@@ -27,22 +28,17 @@ Moreover, I consider myself as an analytical person, focused on goals; with crea
 * Espressif: `ESP8266`, `ESP32`
 
 ## Embedded Systems
-
-Linux - Ubuntu, Linux Mint, Raspbian
-Make and makefiles
-GCC
-GDB
-Crontab
+* Linux Environment: `Ubuntu`, `Linux Mint`, `Raspbian`
+* Toolchain: `Make and makefiles`, `GCC`, `GDB`
+* Tools: `crontab`, `ssh`
 
 ## Project management
-
-Notion
+* Notion
 
 ## Reporting
-
-Microsoft Office
-Google Suite
-Latex
+* Microsoft Office
+* Google Suite
+* Latex
 
 ## General engineering software
 
