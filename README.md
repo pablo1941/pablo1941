@@ -13,8 +13,6 @@ Moreover, I consider myself as an analytical person, focused on goals; with crea
 3. wifi_module: `b`
 4. mppt_adc: `a`
 
-# 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pablocesarrodriguezgomez1990/) 
-
 # 💻 Tech Stack:
 
 ### Version systems: `Git`, `Github`
@@ -33,22 +31,26 @@ TM4C1294NCPDT
 MSP430F5529
 ESP8266
 ESP32
-Embedded Systems
+
+## Embedded Systems
 
 Linux - Ubuntu, Linux Mint, Raspbian
 Make and makefiles
 GCC
 GDB
 Crontab
-Project management
+
+## Project management
 
 Notion
-Reporting
+
+## Reporting
 
 Microsoft Office
 Google Suite
 Latex
-General engineering software
+
+## General engineering software
 
 Matlab / Simulink
 PSIM
@@ -57,18 +59,23 @@ Proteus
 PSpice
 Putty
 Wireshark
-Mobile aplications
+
+## Mobile aplications
 
 Dart
 Flutter
-Data Analysis
+
+## Data Analysis
 
 Bash
 MySQL
 Pandas
-Cloud
+
+## Cloud
 
 Google Cloud Platform
 
-
+# 🌐 Socials: 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]() : `https://linkedin.com/in/https://www.linkedin.com/in/pablocesarrodriguezgomez1990/`
+Email: `pcrg1941@gmail.com`
 
