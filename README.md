@@ -13,14 +13,13 @@ Moreover, I consider myself as an analytical person, focused on goals; with crea
 # 💻 Tech Stack:
 
 **Version systems**
-
-* ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-* ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+* Git 
+* Github
 
 **Programming languages**
-* ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-* ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-* ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+* C
+* C++
+* Python
 
 **Microcontrollers**
 * STM32F103CBT6
@@ -30,6 +29,7 @@ Moreover, I consider myself as an analytical person, focused on goals; with crea
 * MSP430F5529
 * ESP8266
 * ESP32
+
 **Embedded Systems**
 * Linux - Ubuntu, Linux Mint, Raspbian
 * Make and makefiles
@@ -38,12 +38,12 @@ Moreover, I consider myself as an analytical person, focused on goals; with crea
 * Crontab
 
 **Project management**
-* ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
+* Notion
 
 **Reporting**
-* ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 * Microsoft Office
 * Google Suite
+* Latex
 
 **General engineering software**
 * Matlab / Simulink
@@ -55,17 +55,16 @@ Moreover, I consider myself as an analytical person, focused on goals; with crea
 * Wireshark
 
 **Mobile aplications**
-* ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+* Dart
 * Flutter
 
 **Data Analysis**
-* ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-* ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-* ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+* Bash
+* MySQL
+* Pandas
 
 **Cloud**
-* ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
-
+* Google Cloud Platform
 
 
 
