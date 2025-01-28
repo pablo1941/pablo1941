@@ -55,6 +55,6 @@ Moreover, I consider myself as an analytical person, focused on goals; with crea
 * `Google Cloud Platform`
 
 # 🌐 Socials: 
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]() : `https://linkedin.com/in/https://www.linkedin.com/in/pablocesarrodriguezgomez1990/`
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]() : [https://linkedin.com/in/https://www.linkedin.com/in/pablocesarrodriguezgomez1990/](https://linkedin.com/in/https://www.linkedin.com/in/pablocesarrodriguezgomez1990/)
 * :m: Email: `pcrg1941@gmail.com`
 
