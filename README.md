@@ -12,38 +12,62 @@ Moreover, I consider myself as an analytical person, focused on goals; with crea
 # 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pablocesarrodriguezgomez1990/) 
 
 # 💻 Tech Stack:
-| **Version systems**               | **Project management**          |
-|-----------------------------------|---------------------------------|
-| * Git                             | * Notion                        |
-| * Github                          |                                 |
 
-| **Programming languages**         | **Reporting**                   |
-|-----------------------------------|---------------------------------|
-| * C                               | * Microsoft Office              |
-| * C++                             | * Google Suite                  |
-| * Python                          | * Latex                         |
+## Version systems
+* Git
+* Github
 
-| **Microcontrollers**              | **General engineering software**|
-|-----------------------------------|---------------------------------|
-| * STM32F103CBT6                   | * Matlab / Simulink             |
-| * STM8S003F3P6                    | * PSIM                          |
-| * STM32H743                       | * Multisim                      |
-| * TM4C1294NCPDT                   | * Proteus                       |
-| * MSP430F5529                     | * PSpice                        |
-| * ESP8266                         | * Putty                         |
-| * ESP32                           | * Wireshark                     |
+## Programming languages
 
-| **Embedded Systems**              | **Mobile applications**         |
-|-----------------------------------|---------------------------------|
-| * Linux - Ubuntu, Linux Mint, Raspbian | * Dart                    |
-| * Make and makefiles              | * Flutter                       |
-| * GCC                             |                                 |
-| * GDB                             | **Data Analysis**               |
-| * Crontab                         |---------------------------------|
-|                                   | * Bash                          |
-| **Cloud**                         | * MySQL                         |
-|-----------------------------------| * Pandas                        |
-| * Google Cloud Platform           |                  
+* `C`
+* C++
+* Python
+
+## Microcontrollers
+
+STM32F103CBT6
+STM8S003F3P6
+STM32H743
+TM4C1294NCPDT
+MSP430F5529
+ESP8266
+ESP32
+Embedded Systems
+
+Linux - Ubuntu, Linux Mint, Raspbian
+Make and makefiles
+GCC
+GDB
+Crontab
+Project management
+
+Notion
+Reporting
+
+Microsoft Office
+Google Suite
+Latex
+General engineering software
+
+Matlab / Simulink
+PSIM
+Multisim
+Proteus
+PSpice
+Putty
+Wireshark
+Mobile aplications
+
+Dart
+Flutter
+Data Analysis
+
+Bash
+MySQL
+Pandas
+Cloud
+
+Google Cloud Platform
 
 
 
