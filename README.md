@@ -2,12 +2,12 @@
 
 **Electronic Engineer**
 
-# Profile 🔬:
+# 🔬Profile:
 
 I am passionate about technology and continuously strive to stay updated with the latest advancements in embedded systems and the Internet of Things world. I enjoy collaborating with cross-functional teams to bring products from concept to market. 
 Moreover, I consider myself as an analytical person, focused on goals; with creative, oriented to challenges and problem-solving thinking. On the other hand, I am convinced that innovation is a key factor in transforming and improving our environment, through sustainable technology solutions with a purpose.
 
-# Projects:
+# :checkered_flag:Projects:
 1. Electronic Emulator wind turbine: `https://github.com/pablo1941/emulator`
 2. state_machine: `c`
 3. mppt_adc: `https://github.com/pablo1941/mppt_adc`
@@ -56,5 +56,5 @@ Moreover, I consider myself as an analytical person, focused on goals; with crea
 
 # 🌐 Socials: 
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]() : `https://linkedin.com/in/https://www.linkedin.com/in/pablocesarrodriguezgomez1990/`
-* Email: `pcrg1941@gmail.com`
+* :m: Email: `pcrg1941@gmail.com`
 
