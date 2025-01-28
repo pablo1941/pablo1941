@@ -9,7 +9,7 @@ Moreover, I consider myself as an analytical person, focused on goals; with crea
 
 # :checkered_flag:Projects:
 1. Electronic Emulator wind turbine: `https://github.com/pablo1941/emulator`
-2. state_machine: `c`
+2. state_machine: `[https://github.com/pablo1941/state_machine](https://github.com/pablo1941/state_machine)`
 3. mppt_adc: `https://github.com/pablo1941/mppt_adc`
 
 # 💻 Tech Stack:
