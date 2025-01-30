@@ -8,7 +8,7 @@ Moreover, I consider myself as an analytical person, focused on goals; with crea
 # :checkered_flag:Projects:
 
 ## 1. Makefile and toolchain Project
-This project implements build toolchain using make and makefile, and allows compiling, testing and debugging using GCC and GDB in Linux environment.
+This project is developed as a result of Coursera course: Introduction to Embedded Systems Software and Development Environments. This implements build toolchain using make and makefile, and allows compiling, testing and debugging using GCC and GDB in Linux environment.
 * C language
 * IDE: VS Code
 * Embedded System: msp432p401r
