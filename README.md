@@ -16,7 +16,7 @@ This project implements SPWM technique to control three phase inverter using Par
 
 
 ## 2. State_machine: Overview
-This firmware implements a state machine to handle alarmas and warnings throught LEDS and buzzer
+This firmware implements a state machine to handle alerts and warnings through Bicolour-LED and buzzer according a dataframe defined.
 * C language
 * Microcontroller: STM8S003F3P6 
 * IDE: VS-Code and Cosmic8.
