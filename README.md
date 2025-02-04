@@ -30,7 +30,13 @@ This firmware implements a state machine to handle alerts and warnings through B
 * IDE: VS-Code and Cosmic8.
 * Link: [https://github.com/pablo1941/state_machine](https://github.com/pablo1941/state_machine)
 
-## 4. mppt_adc: Overview
+## ws_server: Overview
+This project uses Python to implement a WebSocket server hosted on a remote Linux server.  The server handles communication with ESP IoT devices.
+* Python language
+* Environment: Linux
+* Link: https://github.com/pablo1941/ws_server
+
+## 5. mppt_adc: Overview
 This firmware implements the reading and processing data of electric variables throught ADC inputs and Serial Port connected to third-party device, and showing in visual-interface with leds and buzzer some indicators according to values readed
 * C++ language
 * Microcontroller: STM32F103  
@@ -54,6 +60,7 @@ This firmware implements the reading and processing data of electric variables t
 
 ## Embedded Systems
 * Linux Environment: `Ubuntu`, `Linux Mint`, `Raspbian`
+* Platforms: Raspberry Pi 4, Rock Pi 3A
 * Toolchain: `Make and makefiles`, `GCC`, `GDB`
 * Tools: `crontab`, `ssh`
 
