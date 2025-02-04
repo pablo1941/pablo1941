@@ -30,7 +30,7 @@ This firmware implements a state machine to handle alerts and warnings through B
 * IDE: VS-Code and Cosmic8.
 * Link: [https://github.com/pablo1941/state_machine](https://github.com/pablo1941/state_machine)
 
-## ws_server: Overview
+## 4. ws_server: Overview
 This project uses Python to implement a WebSocket server hosted on a remote Linux server.  The server handles communication with ESP IoT devices.
 * Python language
 * Environment: Linux
