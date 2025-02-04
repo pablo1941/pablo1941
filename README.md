@@ -60,7 +60,7 @@ This firmware implements the reading and processing data of electric variables t
 
 ## Embedded Systems
 * Linux Environment: `Ubuntu`, `Linux Mint`, `Raspbian`
-* Platforms: Raspberry Pi 4, Rock Pi 3A
+* Platforms: `Raspberry Pi 4`, `Rock Pi 3A`
 * Toolchain: `Make and makefiles`, `GCC`, `GDB`
 * Tools: `crontab`, `ssh`
 
