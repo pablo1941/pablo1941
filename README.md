@@ -64,8 +64,8 @@ This firmware implements the reading and processing data of electric variables t
 * Toolchain: `Make and makefiles`, `GCC`, `GDB`
 * Tools: `crontab`, `ssh`
 
-## PCB Desing
-* `Kicad`, `Altium`
+## PCB Design
+* `Kicad`, `Altium`, `Design for manufacturing`, `Mixed-Signal`
 
 ## Project management
 * `Notion`
